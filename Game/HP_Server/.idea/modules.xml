@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HP_Client/HP_Client.iml" filepath="$PROJECT_DIR$/../HP_Client/HP_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HP_Constants/HP_Constants.iml" filepath="$PROJECT_DIR$/../HP_Constants/HP_Constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HP_Server.iml" filepath="$PROJECT_DIR$/HP_Server.iml" />
+    </modules>
+  </component>
+</project>
